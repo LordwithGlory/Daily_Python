@@ -1,5 +1,6 @@
 class Offer19:
     def printMatrix(self, matrix):
+        #  创建二维数组或多维数组：https://www.cnblogs.com/PyLearn/p/7795552.html
         res=[]
         rowlen=len(matrix)
         if rowlen==0:
